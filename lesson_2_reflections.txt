@@ -1,0 +1,17 @@
+Lesson 2 Reflections
+
+What happens when you initialize a repository? Why do you need to do it?
+
+When I initialize a repository, I am creating a repository or a .git file. I need to initialize a repository to start using git and its features. Otherwise, I just have the old files and the old manual ways of saving.
+
+We’ve introduced a few new concepts since we last revisited our concept map.
+
+git init
+git add
+git status
+staging area
+working directory
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The working directory is the directory/folder that we are working in that holds all the files. The "git init" command in the terminal creates a repository. The staging area is the intermediary space between the working directory and the repository. When I use the "git add" command in the terminal, it adds the file to the staging area. After all the files are added to the staging area, I can make my first commit. The "git status" tells me what files are in the working directory and which files are in the staging area. The value that the staging area offers is that I can put any files I want in it. 
