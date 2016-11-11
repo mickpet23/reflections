@@ -21,3 +21,7 @@ Find a bug and makes changes. First find the bug: a common way is to look throug
 How can you use the staging area to make sure you have one commit per logical change?
 
 Make a change to a document. The most recent commit will contain the document but it hasn't been changed. The saved document in the commit will also show up in the staging area. I can compare the changed document in my working directory with the staging area to see what specific changes I made. This will help me pinpoint what changes I made since the last commit and can help me make one logical change per commit instead of many.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches would be helpful if we are experimenting. We wouldn't want to try the experiments on the master, or the main branch. So we create a new branch and we can always go back to the master branch if it doesn't work out. We can use different branches to keep track of different experiments. Branches help us take projects in new directions without fear of losing our current project/code.
