@@ -25,3 +25,7 @@ Make a change to a document. The most recent commit will contain the document bu
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Branches would be helpful if we are experimenting. We wouldn't want to try the experiments on the master, or the main branch. So we create a new branch and we can always go back to the master branch if it doesn't work out. We can use different branches to keep track of different experiments. Branches help us take projects in new directions without fear of losing our current project/code.
+
+How do the diagrams help you visualize the branch structure?
+
+It's easier to visualize the branches and the parents than to have no picture.
